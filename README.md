@@ -1,4 +1,4 @@
-<h1>Sorry fish</h1>
+<h1>Sorry Fish</h1>
 
 <h2>1. Опис на апликацијата</h2>
 <p><div align="justify">
